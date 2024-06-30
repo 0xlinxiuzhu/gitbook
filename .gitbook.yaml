@@ -2,15 +2,3 @@ root: ./
 structure:
   readme:  ./collection/README.md
   summary: ./collection/SUMMARY.md
-  page1:    ./collection/0300-猜猜她是谁.md
-  page2:    ./collection/0301-日记.md
-  page3:    ./collection/0302-大象来帮忙.md
-  page4:    ./collection/0303-美丽的西湖.md
-  page5:    ./collection/0304-难忘的生日.md
-  page6:    ./collection/0305-我有一个想法.md
-  page7:    ./collection/0306-暑假那次玩的真高兴.md
-  page8:    ./collection/0307-我的植物朋友三角梅.md
-  page9:    ./collection/0308-放风筝.md
-  page10:    ./collection/0309-端午节.md
-  page11:    ./collection/0310-我变成了一只小狗.md
-  page12:    ./collection/0311-爱哭的表弟.md
