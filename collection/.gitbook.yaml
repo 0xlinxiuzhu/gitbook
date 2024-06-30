@@ -1,8 +1,8 @@
 root: ./
 
 structure:
-  readme: README.md
-  summary: SUMMARY.md
+  readme: ./collection/README.md
+  summary: ./collection/SUMMARY.md
 
 redirects:
-  previous/page: ./0300-猜猜我是谁.md
+  previous/page: ./collection/0300-猜猜我是谁.md
