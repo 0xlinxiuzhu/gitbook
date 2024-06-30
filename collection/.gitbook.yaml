@@ -1,5 +1,0 @@
-root: ./
-structure:
-  readme:  ./collection/README.md
-  summary: ./collection/SUMMARY.md
-  page:    ./collection/0300-猜猜她是谁.md
